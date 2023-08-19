@@ -26,7 +26,16 @@ for hobby in hobbies:
     print(hobby)
 ```
 
-
+```csharp	
+var languages = new List<string> {
+    "German",
+    "English",
+    "French",
+};
+foreach (var language in languages) {
+    Console.WriteLine(language);
+}
+```
 
 
 ![](https://komarev.com/ghpvc/?username=BWizard06&color=ed0e00&style=for-the-badge)
