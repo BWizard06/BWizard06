@@ -1,20 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=FF000000&width=435&lines=B+Wizard+is+programming+.+.+.)](https://git.io/typing-svg)
 
-```javascript	
-const technologies = [
-    "NextJS",
-    "ReactJS",
-    "Three.js",
-    "Python",
-    "C#",
-    "MySQL",
-    "MongoDB",
-    "Kubernetes",
-]
-for (let i = 0; i < technologies.length; i++) {
-    console.log(technologies[i]);
-}
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BWizard06)
 
 ```python
 hobbies = [
